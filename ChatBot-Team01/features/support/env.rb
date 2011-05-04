@@ -1,5 +1,5 @@
 require 'rubygems'
-require 'aruba/cucmber'
+require 'aruba/cucumber'
 
 require 'rubygems' # Use the Ruby Gems system; we will be importing gems
 require 'aruba/cucumber' # Use the Cucumber-specific Aruba extensions
